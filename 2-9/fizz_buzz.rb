@@ -51,6 +51,7 @@
 def fizz_buzz(numder)
 	if numder % 15 == 0
 		"FizzBuzz"
+	#  def~ end においてputs は省略できる
 	# 	"FizzBuzz"
 	# if numder % 3 == 0 && numder % 5 == 0
 	# 変数名　numder だと引数記載どうなるのか
